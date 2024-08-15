@@ -15,7 +15,6 @@ I'm a Data analyst with a Master’s degree in Computer Science from Western Uni
 - Python
 - SQL
 - Power BI
-- Azure
 - Data Analysis
 - Machine Learning
 
