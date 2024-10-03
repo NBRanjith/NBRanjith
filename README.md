@@ -4,6 +4,8 @@
 I'm a Data analyst with a Master’s degree in Computer Science from Western University, Ontario, Canada. I’m currently learning data Engineering  and am passionate about it. I’m also enthusiastic about data-driven decision-making and machine learning. I’m actively looking for full-time opportunities where I can apply my skills and continue to grow.
 
 ## Projects
+- ETL Project](https://github.com/NBRanjith/ETL-Project): An end-to-end ETL pipeline project where data is extracted, transformed, and loaded using modern tools and techniques.
+- Spotify Analysis](https://github.com/NBRanjith/Spotify): A detailed analysis of Spotify datasets to explore music trends, listener habits, and song characteristics.
 - Webscrapping using Regex Functions(https://github.com/NBRanjith/Webscrapping-using-Regex): A Python script that uses Regular Expressions (Regex) to scrape and extract specific data from web pages efficiently.
 - Personal Repository](https://github.com/NBRanjith/NBRanjith): A collection of my work and other personal projects.
 - Automated Crypto Price Fetcher](https://github.com/NBRanjith/Webscrapper-Bitcoin): A Python script that fetches and logs Bitcoin price data at regular intervals.
