@@ -1,7 +1,7 @@
 # Hi there, I'm Ranjith 👋
 
 ## About Me
-I'm a Aspiring Data analyst with a Master’s degree in Computer Science from Western University, Ontario, Canada. I’m currently learning data Engineering  and am passionate about it. I’m also enthusiastic about data-driven decision-making and machine learning. I’m actively looking for full-time opportunities where I can apply my skills and continue to grow.
+I'm a Aspiring Data analyst and Data Engineer with a Master’s degree in Computer Science from Western University, Ontario, Canada. I’m currently learning data Engineering  and am passionate about it. I’m also enthusiastic about data-driven decision-making and machine learning. I’m actively looking for full-time opportunities where I can apply my skills and continue to grow.
 
 ## Projects
 - HealthLens-Exploratory-Data-Analysis](https://github.com/NBRanjith/HealthLens-Exploratory-Data-Analysis): A project focusing on exploratory data analysis in healthcare.
