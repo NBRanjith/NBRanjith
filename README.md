@@ -4,6 +4,7 @@
 I'm a Aspiring Data analyst and Data Engineer with a Master’s degree in Computer Science from Western University, Ontario, Canada. I’m currently learning data Engineering  and am passionate about it. I’m also enthusiastic about data-driven decision-making and machine learning. I’m actively looking for full-time opportunities where I can apply my skills and continue to grow.
 
 ## Projects
+- Walmart Data Analysis](https://github.com/NBRanjith/Walmart_sales_analysis): An in-depth analysis of Walmart transactional data using MySQL to solve business problems such as identifying top-performing categories, busiest days, revenue trends, and customer preferences.
 - Overtime Pay Calculator](https://github.com/NBRanjith/Overtime-Pay-Calculator): A Python script that calculates daily overtime earnings based on user input for hourly pay rates and overtime hours, with options to set budget goals and different tax rates based on permit types (Study Permit and Work Permit).
 - HealthLens-Exploratory-Data-Analysis](https://github.com/NBRanjith/HealthLens-Exploratory-Data-Analysis): A project focusing on exploratory data analysis in healthcare.
 - ETL Project](https://github.com/NBRanjith/ETL-Project): An end-to-end ETL pipeline project where data is extracted, transformed, and loaded using modern tools and techniques.
