@@ -14,8 +14,7 @@ I'm a Aspiring Data analyst and Data Engineer with a Master’s degree in Comput
 - Automated Crypto Price Fetcher](https://github.com/NBRanjith/Webscrapper-Bitcoin): A Python script that fetches and logs Bitcoin price data at regular intervals.
 - World Population Scraper](https://github.com/NBRanjith/WebScrapped_World_Population): A Python script that scrapes population data by country from Worldometers and saves it to a CSV file.
 - File Organizer](https://github.com/NBRanjith/Automatic-File-Sorter): A Python script that organizes files into folders based on their file types.
-- Basic Calculator](https://github.com/NBRanjith/Smart_Solve): A Python script for basic arithmetic operations including addition, subtraction, multiplication, and division.
-- Unit Converter](https://github.com/NBRanjith/My-very-First-): A Python script that converts measurements between feet, inches, and yards.
+
 
 ## Skills
 - Python
