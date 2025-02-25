@@ -1,27 +1,18 @@
-# Hi there, I'm Ranjith 👋
+# 💫 About Me:
+👋 Hi, I'm Ranjith NB, a Data Analyst & Data Engineer passionate about transforming raw data into actionable insights.<br><br>🔹 Expertise: SQL, Python, Power BI, ETL, Data Warehousing, Automation, Visualization<br>🔹 Tech Stack: SQL | Python | Power BI | Excel (VBA) | AWS | Git<br>🔹 Currently Working On: Advanced Analytics project (Step T2 to SQL Data Warehousing)<br>🔹 Currently Learning: Data Engineering, Cloud Technologies<br>🔹 Open to Work: Seeking opportunities in Data Analytics & Engineering
 
-## About Me
-I'm a Aspiring Data analyst and Data Engineer with a Master’s degree in Computer Science from Western University, Ontario, Canada. I’m currently learning data Engineering  and am passionate about it. I’m also enthusiastic about data-driven decision-making and machine learning. I’m actively looking for full-time opportunities where I can apply my skills and continue to grow.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NBRanjith&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NBRanjith&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NBRanjith&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Projects
-- Walmart Data Analysis](https://github.com/NBRanjith/Walmart_sales_analysis): An in-depth analysis of Walmart transactional data using MySQL to solve business problems such as identifying top-performing categories, busiest days, revenue trends, and customer preferences.
-- Overtime Pay Calculator](https://github.com/NBRanjith/Overtime-Pay-Calculator): A Python script that calculates daily overtime earnings based on user input for hourly pay rates and overtime hours, with options to set budget goals and different tax rates based on permit types (Study Permit and Work Permit).
-- HealthLens-Exploratory-Data-Analysis](https://github.com/NBRanjith/HealthLens-Exploratory-Data-Analysis): A project focusing on exploratory data analysis in healthcare.
-- ETL Project](https://github.com/NBRanjith/ETL-Project): An end-to-end ETL pipeline project where data is extracted, transformed, and loaded using modern tools and techniques.
-- Spotify Analysis](https://github.com/NBRanjith/Spotify): A detailed analysis of Spotify datasets to explore music trends, listener habits, and song characteristics.
-- Webscrapping using Regex Functions(https://github.com/NBRanjith/Webscrapping-using-Regex): A Python script that uses Regular Expressions (Regex) to scrape and extract specific data from web pages efficiently.
-- Personal Repository](https://github.com/NBRanjith/NBRanjith): A collection of my work and other personal projects.
-- Automated Crypto Price Fetcher](https://github.com/NBRanjith/Webscrapper-Bitcoin): A Python script that fetches and logs Bitcoin price data at regular intervals.
-- World Population Scraper](https://github.com/NBRanjith/WebScrapped_World_Population): A Python script that scrapes population data by country from Worldometers and saves it to a CSV file.
-- File Organizer](https://github.com/NBRanjith/Automatic-File-Sorter): A Python script that organizes files into folders based on their file types.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NBRanjith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=NBRanjith&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills
-- Python
-- SQL
-- Power BI
-- Data Analysis
-- Machine Learning
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ranjith-nb-99b19519a/)
