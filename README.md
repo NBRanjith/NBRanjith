@@ -30,12 +30,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="42" height="42"/>
   </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tableau_Logo.png" alt="Tableau" width="42" height="42"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" alt="Power BI" width="42" height="42"/>
-  </a>
 </p>
   
 
