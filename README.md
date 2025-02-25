@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Ranjith NB, a Data Analyst & Data Engineer passionate about transforming raw data into actionable insights.<br><br>🔹 Expertise: SQL, Python, Power BI, ETL, Data Warehousing, Automation, Visualization<br>🔹 Tech Stack: SQL | Python | Power BI | Excel (VBA) | AWS | Git<br>🔹 Currently Working On: Advanced Analytics project (Step T2 to SQL Data Warehousing)<br>🔹 Currently Learning: Data Engineering, Cloud Technologies<br>🔹 Open to Work: Seeking opportunities in Data Analytics & Engineering
 
-<h1>Hi 👋, I'm </h1>
 <p></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
