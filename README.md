@@ -3,7 +3,7 @@
 
 🔹 **Expertise**: SQL, Python, Power BI, ETL, Data Warehousing, Automation, Visualization  
 🔹 **Tech Stack**: SQL | Python | Power BI | Excel (VBA) | AWS | Git  
-🔹 **Currently Working On**: Advanced Analytics Project (Step T2 of SQL Data Warehousing)  
+🔹 **Currently Working On**: Advanced Analytics Project (Part of SQL Data Warehousing)  
 🔹 **Currently Learning**: Data Engineering, Cloud Technologies  
 🔹 **Open to Work**: Seeking opportunities in Data Analytics & Engineering  
 
