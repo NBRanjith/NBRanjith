@@ -6,7 +6,7 @@
 🔹 **Currently Working On**: Advanced Analytics Project (Part of SQL Data Warehousing)  
 🔹 **Currently Learning**: Data Engineering, Cloud Technologies  
 🔹 **Open to Work**: Seeking opportunities in Data Analytics & Engineering  
-
+🔹 **Data Lemur PRofile: https://datalemur.com/profile
 ---
 
 ## 🚀 Languages and Tools   
